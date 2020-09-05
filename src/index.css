@@ -4,9 +4,13 @@
 
 body {
   margin: 0;
-  background-color: white;
+  background-color: whitesmoke;
 }
 
 * {
   box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
